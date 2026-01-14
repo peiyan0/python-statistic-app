@@ -53,7 +53,7 @@ statistics-toolkit/
 
 ```bash
 # Clone the repository
-git clone https://github.com/peiyan0/statistics-toolkit.git
+git clone https://github.com/peiyan0/python-statistic-app.git
 cd statistics-toolkit
 ```
 ### 2. Environment Setup
